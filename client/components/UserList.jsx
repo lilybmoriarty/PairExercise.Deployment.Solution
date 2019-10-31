@@ -4,8 +4,8 @@ import User from "./User.jsx";
 export default ({ users }) => (
   <div className="user-list">
     <p className="lead">
-      Here's a list of {users.length} completely fictitious people (making an
-      update to test):
+      Here's a list of {users.length} completely fictitious people (did this
+      work?):
     </p>
 
     <table className="table">
